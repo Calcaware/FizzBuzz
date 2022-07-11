@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Various Fizz Buzz Implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calcaware/FizzBuzz.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz",
+    "division",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Calcaware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calcaware/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Calcaware/FizzBuzz#readme"
+}
